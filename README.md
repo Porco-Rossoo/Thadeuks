@@ -2,6 +2,8 @@ Hello World.
 
 Python developer :)
 
+Coffee Lover <3
+
 Twitah - https://twitter.com/ElTadeuX1
 
 Discord - https://discord.com/channels/@me/ƬadeuӼ#5628
