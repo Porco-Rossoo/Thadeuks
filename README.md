@@ -1,3 +1,0 @@
-SINTAX ERROR.
-
-python developer :)
