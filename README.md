@@ -1,20 +1,12 @@
-Hello World.
+Hello world.
 
-Python developer.
+Noob developer.
 
-Coffee Lover.
+Coffee lover.
 
-Twitah - https://twitter.com/Thadeuks
+-[My twitter](https://twitter.com/Thadeuks/ )
 
-Discord - https://discord.com/channels/@me/Thadeuks#5628
-
-![tumblr_ou8as44ZIT1vgzd4so5_500](https://c.tenor.com/NVC9RDzsnVcAAAAC/wallpaper-anime.gif)
+-[My discord](https://discord.com/channels/@me/Thadeuks#5628)
 
 
-
-
-
-
-
-
-
+![images (4)](https://user-images.githubusercontent.com/93542549/144749159-1bda3ee0-53cd-40ee-a893-3b6a8b52c995.gif)
